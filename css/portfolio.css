@@ -5,10 +5,10 @@
 }
 
 .hero {
-    position: relative;
+    position: absolute;
     width: 100%;
-    height: 100vh;
-    background: grey;
+    height: 100%;
+    background: #9AA6B2;
 }
 
 nav {
@@ -34,6 +34,14 @@ nav ul li a {
 
 nav ul li a:hover {
     color: red;
+}
+
+#act1 {
+    color: black;
+    text-align: center;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: #D9EAFD;
 }
 
 .info {
